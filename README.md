@@ -1,9 +1,6 @@
 ## Hi there 👋
 <p>
-  <svg height="20" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="white" rx="4"/>
-  <image href="https://file.garden/acy5cqVk5ESjO5Mu/vietcap-seeklogo.svg" height="20" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
+  <img src="https://cdn.haitrieu.com/wp-content/uploads/2023/08/Logo-Cong-Ty-Cp-Chung-Khoan-VIETCAP.png" height="20" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white" />
