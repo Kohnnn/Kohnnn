@@ -1,6 +1,8 @@
 ## Hi there 👋
-<p>
+RA @ <p>
   <img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />
+</p> | 
+<p>
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white" />
