@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p>
-  <img src="https://files.catbox.moe/w5ruf7.svg" height="20" />
+  <img src="https://file.garden/acy5cqVk5ESjO5Mu/vietcap-seeklogo.svg" height="20" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
-
 ## Current Projects
 
 - 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard
