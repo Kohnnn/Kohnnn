@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Vietcap](https://files.catbox.moe/1n28bw.svg)
+![Vietcap]([https://files.catbox.moe/1n28bw.svg](https://file.garden/acy5cqVk5ESjO5Mu/vietcap-seeklogo.svg))
 ![Openai](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white)
