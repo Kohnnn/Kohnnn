@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p>
-  <img src="https://cdn.haitrieu.com/wp-content/uploads/2023/08/Logo-Cong-Ty-Cp-Chung-Khoan-VIETCAP.png" height="20" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDbTPj3Tr1NpfWGrewWkKqEnQU_tCwMGZhg&s" height="20" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white" />
