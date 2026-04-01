@@ -1,6 +1,4 @@
 ## Hi there 👋
-RA @
-  <img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" /> | 
 <p>
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
@@ -30,5 +28,7 @@ RA @
 - 📝 **[n8n-template-and-documentation-for-RAG](https://github.com/Kohnnn/n8n-template-and-documentation-for-RAG)** *(deprecated)* - Production-grade RAG workflow templates for n8n
 
 ---
+
+from <img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" /> with love
 
 *Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
