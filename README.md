@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Openai](https://img.shields.io/badge/-openai-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Vietcap](https://files.catbox.moe/1n28bw.svg)
+![Openai](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=codewars&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/-OpenCode-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
