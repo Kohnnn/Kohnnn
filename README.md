@@ -1,28 +1,25 @@
 ## Hi there 👋
 
-Here are some of my active projects:
+## Current Projects
 
-**AI & Research Tools**
+- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard
+- ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with RAG briefs and citation graph
+- 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally
+- 🧠 **[openclaw-agents-swarm-setup-step-by-step](https://github.com/Kohnnn/openclaw-agents-swarm-setup-step-by-step)** - Compact OpenClaw multi-agent swarm playbook
 
-- [vnibb](https://github.com/Kohnnn/vnibb) *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard, FastAPI backend, and agent-friendly monorepo structure 📊
-- [model-finetune](https://github.com/Kohnnn/model-finetune) - Private analyst AI stack: fine-tune Qwen 3.5 on local research docs, export GGUF, and serve grounded RAG answers 🤖
-- [openclaw-agents-swarm-setup-step-by-step](https://github.com/Kohnnn/openclaw-agents-swarm-setup-step-by-step) - Step-by-step playbook for deploying a compact OpenClaw multi-agent swarm with Discord, Telegram, and multi-provider support 🧠
-- [deepseek-n8n-automate-workflow](https://github.com/Kohnnn/deepseek-n8n-automate-workflow) - Self-hosted AI starter kit: Docker Compose stack with n8n, Open WebUI, Qdrant, and local LLM integration via Ollama ⚡
-- [n8n-template-and-documentation-for-RAG](https://github.com/Kohnnn/n8n-template-and-documentation-for-RAG) - Curated n8n workflow templates and documentation for building production-grade RAG pipelines 📝
+### Visualization & Web
 
-**Legal & Data**
+- 📸 **[gapsnap](https://github.com/Kohnnn/gapsnap)** - Gap analysis snapshots at a glance
+- 🔀 **[sankeydrawer](https://github.com/Kohnnn/sankeydrawer)** - Draw and export Sankey flow diagrams interactively
+- 🗂️ **[personal-portfolio](https://github.com/Kohnnn/personal-portfolio)** - Portfolio site
 
-- [V-Legal](https://github.com/Kohnnn/V-Legal) - Vietnamese legal research prototype with full-text archive, citation graph, grounded RAG briefs, and official Phap Dien taxonomy ⚖️
-
-**Web & Visualization**
-
-- [gapsnap](https://github.com/Kohnnn/gapsnap) - Gap analysis and snapshot tool for quick visual data captures 📸
-- [sankeydrawer](https://github.com/Kohnnn/sankeydrawer) - Interactive Sankey diagram builder for visualizing flows and allocations 🔀
-- [keith-digital-garden](https://github.com/Kohnnn/keith-digital-garden) - Personal digital garden for notes, ideas, and knowledge management 🌱
-- [f1-racing](https://github.com/Kohnnn/f1-racing) - F1 racing data explorer and visualization project 🏎️
-- [interactive-explanation](https://github.com/Kohnnn/interactive-explanation) - Interactive explainer components for making complex concepts easy to understand 💡
-- [personal-portfolio](https://github.com/Kohnnn/personal-portfolio) - Personal portfolio website showcasing projects and work 🗂️
+### Others
+- 💡 **[interactive-explanation](https://github.com/Kohnnn/interactive-explanation)** - Interactive explainer components for complex ideas, featured [mechanical-watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) 
+- 🏎️ **[f1-racing](https://github.com/Kohnnn/f1-racing)** - F1 data telemetry and computational fluid dynamics simulation
+- 🌱 **[keith-digital-garden](https://github.com/Kohnnn/keith-digital-garden)** - Notes, ideas, and working knowledge base
+- ⚡ **[deepseek-n8n-automate-workflow](https://github.com/Kohnnn/deepseek-n8n-automate-workflow)** *(deprecated)* - Self-hosted n8n + Open WebUI + Qdrant + Ollama stack
+- 📝 **[n8n-template-and-documentation-for-RAG](https://github.com/Kohnnn/n8n-template-and-documentation-for-RAG)** *(deprecated)* - Production-grade RAG workflow templates for n8n
 
 ---
 
-These repositories have been migrated from my legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).
+*Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
