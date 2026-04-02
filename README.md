@@ -12,7 +12,7 @@
 - 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with RAG briefs and citation graph
 - 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally
-- 🧠 **[openclaw-agents-swarm-setup-step-by-step](https://github.com/Kohnnn/openclaw-agents-swarm-setup-step-by-step)** - Compact OpenClaw multi-agent swarm playbook
+- 🧠 **[agent-swarm-pack](https://github.com/Kohnnn/agent-swarm-pack)** - Compact OpenClaw multi-agent swarm playbook
 
 ### Visualization & Web
 
