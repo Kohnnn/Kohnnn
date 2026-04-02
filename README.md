@@ -29,6 +29,6 @@
 
 ---
 
-*from <img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" /> with love 💚*
+*💚<img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />*
 
 *Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
