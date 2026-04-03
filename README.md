@@ -11,7 +11,7 @@
 
 ## Current Projects
 
-- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard
+- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard ([demo](https://vnibb-web.vercel.app/dashboard))
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with RAG briefs and citation graph ([demo](https://vlegal-frontend.netlify.app/))
 - 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally
 - 🧠 **[agent-swarm-pack](https://github.com/Kohnnn/agent-swarm-pack)** - Compact OpenClaw multi-agent swarm playbook
@@ -31,6 +31,6 @@
 
 ---
 
-*💚<img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />*
+*💚<img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />💚*
 
 *Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
