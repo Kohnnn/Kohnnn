@@ -3,13 +3,13 @@
 ## Current Projects
 
 - 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo](https://vnibb-web.vercel.app/dashboard))
-- ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with RAG briefs and citation graph ([demo](https://vlegal-frontend.netlify.app/))
+- ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with vectorless-RAG briefs, citation graph, and cross-references ([demo](https://vlegal-frontend.netlify.app/))
 - 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally ([model](https://huggingface.co/Mikkkkoooo/qwen35-4b-private-analyst-full-corpus))
 - 🧠 **[agent-swarm-pack](https://github.com/Kohnnn/agent-swarm-pack)** - Compact OpenClaw multi-agent swarm playbook
 
 ### Visualization & Web
 
-- 🌱 **[keith-digital-garden](https://github.com/Kohnnn/keith-digital-garden)** - Vectorless-RAG, notes, and working knowledge base, powered by Obsidian ([demo](https://kohnnn.github.io/keith-digital-garden/))
+- 🌱 **[keith-digital-garden](https://github.com/Kohnnn/keith-digital-garden)** - Vectorless-RAG, notes, and graph knowledge base, powered by Obsidian ([demo](https://kohnnn.github.io/keith-digital-garden/))
 - 💡 **[interactive-explanation](https://github.com/Kohnnn/interactive-explanation)** - Interactive explainer components for complex ideas, featured [mechanical-watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
 - 🏎️ **[f1-racing](https://github.com/Kohnnn/f1-racing)** - F1 data telemetry and computational fluid dynamics simulation
 
