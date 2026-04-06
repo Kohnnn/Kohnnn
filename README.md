@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard ([demo](https://vnibb-web.vercel.app/dashboard))
+- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research cockpit with multi-widget dashboard, database mcp supported ([demo](https://vnibb-web.vercel.app/dashboard))
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with RAG briefs and citation graph ([demo](https://vlegal-frontend.netlify.app/))
 - 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally ([model](https://huggingface.co/Mikkkkoooo/qwen35-4b-private-analyst-full-corpus))
 - 🧠 **[agent-swarm-pack](https://github.com/Kohnnn/agent-swarm-pack)** - Compact OpenClaw multi-agent swarm playbook
