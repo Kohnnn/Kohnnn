@@ -4,7 +4,7 @@
 
 - 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo](https://vnibb-web.vercel.app/dashboard))
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with vectorless-RAG briefs, citation graph, and cross-references ([demo](https://vlegal-frontend.netlify.app/))
-- 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 on private data; serve GGUF locally ([model](https://huggingface.co/Mikkkkoooo/qwen35-4b-private-analyst-full-corpus))
+- 🤖 **[model-finetune](https://github.com/Kohnnn/model-finetune)** - Fine-tune Qwen 3.5 and Gemma 4 on private data; serve GGUF locally ([model](https://huggingface.co/Mikkkkoooo/qwen35-4b-private-analyst-full-corpus))
 - 🧠 **[agent-swarm-pack](https://github.com/Kohnnn/agent-swarm-pack)** - Compact OpenClaw multi-agent swarm playbook
 
 ### Visualization & Web
